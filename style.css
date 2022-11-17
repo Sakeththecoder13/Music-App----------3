@@ -1,0 +1,25 @@
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+}
+
+.note{
+    font-size:15px;
+    color:white;
+}
+
+#body1{
+    background-size:cover;
+    text-align:center;
+}
+
+canvas{
+    border-radius:15px;
+    border-width:15px;
+    border-style:groove;
+    margin-top:100;
+    border:10px solid white;
+}
+
+
